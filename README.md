@@ -56,6 +56,7 @@ The tools do not modify the original files; originals are left untouched.
 <img width="3440" height="1440" alt="screenshot_2026-04-02_003930" src="https://github.com/user-attachments/assets/395f1465-813f-4831-b819-505a78100cca" />
 <img width="3440" height="1440" alt="screenshot_2026-04-07_210350" src="https://github.com/user-attachments/assets/5f43d586-3c40-45f9-b778-ef5fd1784ce5" />
 <img width="3440" height="1440" alt="screenshot_2026-04-07_210146" src="https://github.com/user-attachments/assets/58eefc6a-5296-4f74-a535-3bd6cbc4f953" />
+<img width="3440" height="1440" alt="screenshot_2026-04-07_210440" src="https://github.com/user-attachments/assets/2e9892c6-9e3d-4a69-851d-5bee2bbe63d1" />
 
 
 # After - Options Selected -> Tone Map Reinhard + Brightness 2.0
@@ -63,6 +64,7 @@ The tools do not modify the original files; originals are left untouched.
 <img width="3440" height="1440" alt="screenshot_2026-04-02_003930_fixed" src="https://github.com/user-attachments/assets/0fdabbe9-97ff-48c6-a8d8-febde14e26f1" />
 <img width="3440" height="1440" alt="screenshot_2026-04-07_210350_fixed" src="https://github.com/user-attachments/assets/116dfec8-f1d6-49f0-b8f4-e56e6a8c684c" />
 <img width="3440" height="1440" alt="screenshot_2026-04-07_210146_fixed" src="https://github.com/user-attachments/assets/8e611dfd-6e01-40b1-9cf4-490f0e5bb8a1" />
+<img width="3440" height="1440" alt="screenshot_2026-04-07_210440_fixed" src="https://github.com/user-attachments/assets/86231821-71df-428a-81b8-e070d70c7e3f" />
 
 
 
