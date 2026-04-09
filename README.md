@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 
 
-Crimson Desert HDR Screenshot Fix
+
 Crimson Desert has a bug in its screenshot tool when HDR is enabled: screenshots are saved as PNGs with the red and blue channels swapped (BGR instead of RGB), because the game dumps the DirectX BGRA surface to disk directly without reordering the channels. The files also use PQ (ST.2084) transfer function encoding with no embedded ICC profile, so they appear washed out, dark, or color-shifted when opened in any standard image viewer.
 This repo provides two tools to fix affected screenshots:
 
@@ -18,7 +18,6 @@ hdr_to_sdr.py — command-line script for single files or batch processing
 hdr_converter_gui.py — GUI version with drag-and-drop folder support, live settings, and a progress log
 
 What the tools do
-
 Swap R and B channels back to correct RGB order
 Decode PQ (ST.2084) EOTF to linear light (nits)
 Apply a tone mapping operator to fit HDR luminance into SDR range
