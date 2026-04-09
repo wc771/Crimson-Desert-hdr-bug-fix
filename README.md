@@ -2,6 +2,8 @@
 For fixing the bgr screenshot bug in crimson desert
 
 
+
+
 # ⚠️ Disclaimer
 # I vibe coded this. 
 I have a CISSP, which means I can tell you exactly how this could be weaponized in a threat model — but I cannot promise the code is pretty, optimal, or won't do something unexpected on your machine. It worked on mine. Claude wrote most of it. I pointed at the problem and said "fix this."
@@ -51,6 +53,8 @@ Output files have no embedded ICC profile (same as source); they will display co
 Alpha channels are preserved if present.
 The tools do not modify the original files; originals are left untouched.
 
+# Screenshot path usually
+C:\Users\(yourusername)\Pictures\Screenshots
 
 
 # Before
